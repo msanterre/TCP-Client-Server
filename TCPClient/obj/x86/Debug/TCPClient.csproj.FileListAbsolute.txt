@@ -1,0 +1,5 @@
+c:\users\msanterre.lymbix\documents\visual studio 2010\Projects\TCPServer-Client\TCPClient\bin\Debug\TCPClient.exe
+c:\users\msanterre.lymbix\documents\visual studio 2010\Projects\TCPServer-Client\TCPClient\bin\Debug\TCPClient.pdb
+c:\users\msanterre.lymbix\documents\visual studio 2010\Projects\TCPServer-Client\TCPClient\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\msanterre.lymbix\documents\visual studio 2010\Projects\TCPServer-Client\TCPClient\obj\x86\Debug\TCPClient.exe
+c:\users\msanterre.lymbix\documents\visual studio 2010\Projects\TCPServer-Client\TCPClient\obj\x86\Debug\TCPClient.pdb

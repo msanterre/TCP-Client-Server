@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPServer", "TCPServer-Client\TCPServer.csproj", "{C3EFFBB9-8FB5-411F-8D4F-1E3E1AA09400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TCPClient", "TCPClient\TCPClient.csproj", "{2EA3D058-96D1-4EC9-B6D4-19FF91552AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3EFFBB9-8FB5-411F-8D4F-1E3E1AA09400}.Debug|x86.ActiveCfg = Debug|x86
+		{C3EFFBB9-8FB5-411F-8D4F-1E3E1AA09400}.Debug|x86.Build.0 = Debug|x86
+		{C3EFFBB9-8FB5-411F-8D4F-1E3E1AA09400}.Release|x86.ActiveCfg = Release|x86
+		{C3EFFBB9-8FB5-411F-8D4F-1E3E1AA09400}.Release|x86.Build.0 = Release|x86
+		{2EA3D058-96D1-4EC9-B6D4-19FF91552AC4}.Debug|x86.ActiveCfg = Debug|x86
+		{2EA3D058-96D1-4EC9-B6D4-19FF91552AC4}.Debug|x86.Build.0 = Debug|x86
+		{2EA3D058-96D1-4EC9-B6D4-19FF91552AC4}.Release|x86.ActiveCfg = Release|x86
+		{2EA3D058-96D1-4EC9-B6D4-19FF91552AC4}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
